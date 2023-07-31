@@ -1,15 +1,6 @@
 import './globals.css'
-// import { Inter } from 'next/font/google'
 import { Button} from 'antd'
 import Link from "next/link";
-
-
-// const inter = Inter({ subsets: ['latin'] })
-
-// export const metadata = {
-//   title: 'NestQuest',
-//   description: 'Welcome to NestQuest, where your quest for dream student home begins with a smile.Find, connect and thrive in the perfect place to call your own',
-// }
 
 export default function RootLayout({ children }) {
   return (
